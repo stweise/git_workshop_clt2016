@@ -1,0 +1,8 @@
+- Einfuehrung Git aus SWP (Powerpoint Praesentation)
+- pcottle - Demo fuer branching (vielleicht auch remote) (vielleicht gibt es auch einen Teil der Demo, der direkt fuer den Kurs funktioniert)
+- github (Vorstellung, Accounts, Grundlagen)
+- github (Demo, extended live, Fragen und gemeinsame Uebung)
+- Materialien: Bleistift (TUBAF/NTFD) und Notizbloecke (Mercateo) (jeweils 20 Stk)
+
+
+
