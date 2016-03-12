@@ -3,3 +3,5 @@
 03 try-push: error -> git pull
 04 undo
 05 git pull --rebase & git push (merge conflicts in real life)
+06 local changes & reset
+07 local changes -> push & revert
