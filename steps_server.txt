@@ -1,0 +1,7 @@
+demo in pcottle
+
+01 clone & commit & push to origin
+02 branch & commit to branch & push to origin
+03 commit to master & push
+04 merge with master & delete branch
+05 delete remote branch
