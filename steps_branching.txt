@@ -1,0 +1,7 @@
+demo in pcottle
+
+01 create product branch & commit on both
+02 merge product
+03 undo merge (only in pcottle NEVER in git) 
+04 show rebase 
+05 merge again (explain difference)
