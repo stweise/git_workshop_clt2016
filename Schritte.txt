@@ -1,0 +1,21 @@
+01 S create repo
+02 S commit
+03 D fork
+04 S commit
+05 D compare (might require "switch base")
+06 D pull request 'create' (directed at himself)
+07 D merge
+08 D merge confirm
+---------------------------------------------------
+(same, except for merge commit)
+09 D commit
+10 D create pull request + message
+11 S "pull requests"
+12 S "merge pull requests"
+---------------------------------------------------
+(same, except for merge commit)
+13 S commit test.txt for conflict
+14 D commit test.txt for conflict
+15 D generate pull request -> conflict
+16 S pull requests (conflict resolution on command line)
+17 D pull request from S to D (directed at himself)
